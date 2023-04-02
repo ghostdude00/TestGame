@@ -10,12 +10,17 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "EditorDiscordRichPresence",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Linux",
 		"Mac",
 		"Windows",
-		"LinuxArm64"
+		"LinuxArm64",
+		"HoloLens"
 	]
 }
