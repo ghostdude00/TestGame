@@ -14,6 +14,16 @@
 		{
 			"Name": "EditorDiscordRichPresence",
 			"Enabled": true
+		},
+		{
+			"Name": "MACS",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/97bf6ab1e948431ea72ed687bed82e18"
+		},
+		{
+			"Name": "SurfaceFootstepSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
 		}
 	],
 	"TargetPlatforms": [
